@@ -1,5 +1,3 @@
-# <<<<<<< HEAD
-
 ![IAMDOG banner](https://github.com/user-attachments/assets/53a70d5b-7daf-4629-ba5c-b3c91b7296fa)
 
 # Tool Auto IAMDOG Bot NodeJS by Lượm Airdrop
